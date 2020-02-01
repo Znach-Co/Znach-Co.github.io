@@ -5,6 +5,7 @@
 We help digital marketers do their job.
 Deep and light analytics from first sources (Instagram, Twitter, FB and many more).
 <br>
+
 -------
 
 We are sharing tools:
@@ -15,7 +16,7 @@ Some of our freebies, which we use for growth:
 
 - Automotive bots (only for Instagram now):
     
-    Simple Instagram bot for marketing or popularity purposes. If you have some background in programming it will be easy to set up, we have also add guide for newbies.
+    Simple Instagram bot for marketing or popularity purposes. If you have some background in programming it will be easy to set up, we have also the guide for newbies.
     Check <a href="https://github.com/Znach-Co/Simple-Instagram-bot">here</a>
     
     [based on <a href="https://github.com/ping/instagram_private_api">this</a>]
