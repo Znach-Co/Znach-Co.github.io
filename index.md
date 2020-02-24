@@ -8,19 +8,23 @@ Deep and light analytics from first sources (Instagram, Twitter, FB and many mor
 
 -------
 
-We are sharing tools:
--
+We are sharing our tools:
+=
 <br>
 
-Some of our freebies, which we use for growth:
-
-- Automotive bots (only for Instagram now):
+Some of our freebies, which we use for growth [automotive bots]:
+-
     
-    Simple Instagram bot for marketing or popularity purposes. If you have some background in programming it will be easy to set up, we have also the guide for newbies.
+- Simple <b>Instagram</b> bot for marketing or popularity purposes. 
+    If you have some background in programming it will be easy to set up, we have also the guide for newbies.
     Check <a href="https://github.com/Znach-Co/Simple-Instagram-bot">here</a>
     
     [based on <a href="https://github.com/ping/instagram_private_api">this</a>]
     
+- Simple <b>Twitter</b> bot for marketing or popularity purposes. 
+    Check <a href="https://github.com/Znach-Co/Simple-Twitter-bot">here</a>
+    
+    [based on <a href="https://github.com/bear/python-twitter">this</a>]
 
 
 <br>
